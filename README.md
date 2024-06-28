@@ -1,8 +1,4 @@
-# CS5031 - Software Engineering Practices - P3
-
-
-## NAME
-Online Shopping (Book Sales) System USING SPRING FRAMEWORK AND RESTFUL API
+System USING SPRING FRAMEWORK AND RESTFUL API
 --
 ## DESCRIPTION
 <p> 
@@ -78,19 +74,4 @@ Online Shopping (Book Sales) System USING SPRING FRAMEWORK AND RESTFUL API
 ---
 
 ### NO OF TESTS WRITTEN :  73
-
----
-
-### CONTRIBUTION GUIDELINES : 
-- Clone the repository from the school Gitlab server.
-- Create a new branch for your feature or bug fix.
-- Write unit tests for your code.
-- Implement your feature or bug fix.
-- Ensure all tests pass.
-- Commit your changes and push to your branch on the Gitlab server.
-- Submit a merge request to merge your changes into the main branch.
-
----
-
-
 
